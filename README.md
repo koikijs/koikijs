@@ -1,3 +1,10 @@
+# Organizations
+- Teal organization
+-- Evolunationary Purpose
+-- Wholeness
+-- Self management
+-- Advice process
+
 # Process
 
 1. All member can post product idea as a ticket.
