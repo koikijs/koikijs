@@ -1,9 +1,9 @@
 # Organizations
-- Teal organization
--- Evolunationary Purpose
--- Wholeness
--- Self management
--- Advice process
+Teal organization
+- Evolunationary Purpose
+- Wholeness
+- Self management
+- Advice process
 
 # Process
 
